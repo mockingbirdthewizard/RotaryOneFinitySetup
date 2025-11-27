@@ -1,0 +1,24 @@
+
+// MASSODocumentation document
+Page 1.021 of 1.374 seems to use a similar motor controller to what we have, see MotorController_Label.jpg  for an image of the controller we are using for thi project. 
+
+// MotorController_Label.jpg
+This is an image of the motor controller we are using for this project
+we see a wiring diagram on it. 
+model: DM542T 
+
+// MotorController_Switches.jpg
+the state of the switches on the motor controller, as of the beginning of this project.
+
+
+// StepperLabel_01.jpg
+image 1 of the stepper motor we are using in the project.
+
+// StepperLabel_01.jpg
+image 2 of the stepper motor we are using in the project.
+
+ 
+ 
+
+
+

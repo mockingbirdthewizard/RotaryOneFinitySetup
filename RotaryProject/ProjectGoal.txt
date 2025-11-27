@@ -1,0 +1,6 @@
+The goal of this projct is to connect a motor and motor controller to a onefinity CNC that is using a MASSO controller. 
+Relevant document are stored in the repo, such as: 
+documentation for the masso, including wiring diagrams.  
+images of the motor controller 
+images of the motor, 
+and later maybe the MASSO wiring on the actual machine. 
